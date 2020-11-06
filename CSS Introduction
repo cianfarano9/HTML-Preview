@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightorange;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: futura;
+  font-size: 25px;
+}
+</style>
+</head>
+<body>
+
+<h1>Payton Cianfarano</h1>
+<p>Example Text.</p>
+
+</body>
+</html>
